@@ -1,6 +1,6 @@
 # Ignore configuration files with passwords
 config.php
-db.php
-
+# Ignore database configuration
+avipro-travels/config/db.php
 # Ignore OS files
 .DS_Store
