@@ -1,0 +1,6 @@
+# Ignore configuration files with passwords
+config.php
+db_connect.php
+
+# Ignore OS files
+.DS_Store
