@@ -2,6 +2,5 @@
 config.php
 # Ignore database configuration
 avipro-travels/config/db.php
-
 # Ignore OS files
 .DS_Store
